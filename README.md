@@ -1,2 +1,2 @@
-# iac_cybersecurity
+# IaC Cybersecurity
 IaC Cybersecurity
